@@ -50,7 +50,9 @@ The application consists of several key components:
 - Application monitoring and logging
 
 ## Screenshots
-<img width="1311" height="1161" alt="Animation" src="https://github.com/user-attachments/assets/fec92e1c-e274-495f-9d29-4c1e3807b6f6" />
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/fec92e1c-e274-495f-9d29-4c1e3807b6f6](https://github.com/user-attachments/assets/fec92e1c-e274-495f-9d29-4c1e3807b6f6)" width="700" alt="Application demo">
+</p>
 
 ## Technologies
 
@@ -67,10 +69,3 @@ The application consists of several key components:
 This repository contains a showcase version of the project.
 
 The full implementation includes additional automation features and is maintained in a private repository.
-
-## Installation
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
