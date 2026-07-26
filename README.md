@@ -51,7 +51,7 @@ The application consists of several key components:
 
 ## Screenshots
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/fec92e1c-e274-495f-9d29-4c1e3807b6f6](https://github.com/user-attachments/assets/fec92e1c-e274-495f-9d29-4c1e3807b6f6)" width="700" alt="Application demo">
+  <img src="https://github.com/user-attachments/assets/fec92e1c-e274-495f-9d29-4c1e3807b6f6" width="700" alt="Application demo">
 </p>
 
 ## Technologies
